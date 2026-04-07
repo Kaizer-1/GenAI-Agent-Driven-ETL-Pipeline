@@ -167,6 +167,8 @@ The agent generates a dynamic pipeline like:
 ---
 
 ## 📁 Project Structure
+
+```
 project/
 │
 ├── data/
@@ -186,7 +188,7 @@ project/
 │
 ├── main.py                   # Entry point
 └── README.md
-
+```
 ---
 
 ## ▶️ How It Works
@@ -251,7 +253,7 @@ project/
 * Python
 * Pandas
 * SQLite
-* LLM (Gemini / OpenAI APIs)
+* LLM (Gemini API)
 
 ---
 
